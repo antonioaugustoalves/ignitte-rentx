@@ -1,0 +1,1 @@
+# Projeto RENTX feito no curso da RocketSeat
