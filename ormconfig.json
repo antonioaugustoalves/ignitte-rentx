@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "user": "duque",
+    "password": "2312",
+    "database": "rentx",
+    "migrations":["./src/database/migrations/*.ts"],
+    "entities":["./src/modules/**/*.ts"],
+    "cli":{ "migrationsDir":"./src/migrations"}
+}
